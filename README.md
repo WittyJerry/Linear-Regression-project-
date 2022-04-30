@@ -1,8 +1,9 @@
 # Linear-Regression-project-
 Using Linear regression for predictions
+
 This project aims to answer real life questions and make predictions.
 
-1.  The following table shows, for a sample of towns in Great Britain, the number of lawyers, x, and the number of cars stolen last week, y.
+The following table shows, for a sample of towns in Great Britain, the number of lawyers, x, and the number of cars stolen last week, y.
 x	12	7	11	19	5	21	3	4	17
 y	14	3	21	28	6	43	1	12	30
 
